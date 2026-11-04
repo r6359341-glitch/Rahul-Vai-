@@ -15,7 +15,7 @@ var telegram_channel_link = t.me/roox444bro
 // =======================================================
 // YOUTUBE CHANNEL LINK
 // =======================================================
-var youtube_channel_link = 
+var youtube_channel_link =
 https://youtube.com/@devyasin?si=tZ-LiIPLdK67I6cj
 // =======================================================
 // NOTIFICATION TEXT
